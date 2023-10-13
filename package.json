@@ -2,7 +2,7 @@
   "name": "react-homework-template",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://anigvo.github.io/goosetrack-group6-project/",
+  "homepage": "https://goitstudentsworks.github.io/fs-75-6-react-node-GooseTrack/",
   "dependencies": {
     "@emotion/react": "^11.11.1",
     "@emotion/styled": "^11.11.0",
