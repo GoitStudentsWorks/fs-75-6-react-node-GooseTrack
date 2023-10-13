@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/fs-75-6-react-node-GooseTrack/static/css/main.01523a97.css",
-    "main.js": "/fs-75-6-react-node-GooseTrack/static/js/main.0d84dd2f.js",
+    "main.js": "/fs-75-6-react-node-GooseTrack/static/js/main.be972619.js",
     "static/css/677.d84c412c.chunk.css": "/fs-75-6-react-node-GooseTrack/static/css/677.d84c412c.chunk.css",
     "static/js/677.b5c4dda0.chunk.js": "/fs-75-6-react-node-GooseTrack/static/js/677.b5c4dda0.chunk.js",
     "static/css/483.cf93b717.chunk.css": "/fs-75-6-react-node-GooseTrack/static/css/483.cf93b717.chunk.css",
@@ -78,7 +78,7 @@
     "static/media/plus.svg": "/fs-75-6-react-node-GooseTrack/static/media/plus.584b925e342ac1d2e0892d9aec12d76c.svg",
     "static/media/close.svg": "/fs-75-6-react-node-GooseTrack/static/media/close.7241e85da3b30e42b36747dccef5f401.svg",
     "main.01523a97.css.map": "/fs-75-6-react-node-GooseTrack/static/css/main.01523a97.css.map",
-    "main.0d84dd2f.js.map": "/fs-75-6-react-node-GooseTrack/static/js/main.0d84dd2f.js.map",
+    "main.be972619.js.map": "/fs-75-6-react-node-GooseTrack/static/js/main.be972619.js.map",
     "677.d84c412c.chunk.css.map": "/fs-75-6-react-node-GooseTrack/static/css/677.d84c412c.chunk.css.map",
     "677.b5c4dda0.chunk.js.map": "/fs-75-6-react-node-GooseTrack/static/js/677.b5c4dda0.chunk.js.map",
     "483.cf93b717.chunk.css.map": "/fs-75-6-react-node-GooseTrack/static/css/483.cf93b717.chunk.css.map",
@@ -97,6 +97,6 @@
   },
   "entrypoints": [
     "static/css/main.01523a97.css",
-    "static/js/main.0d84dd2f.js"
+    "static/js/main.be972619.js"
   ]
 }
